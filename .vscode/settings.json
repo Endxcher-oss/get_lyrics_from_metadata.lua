@@ -1,0 +1,6 @@
+{
+    "Lua.diagnostics.globals": [
+        "after_fullscreen",
+        "found_lyrics"
+    ]
+}
