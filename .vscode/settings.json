@@ -1,6 +1,10 @@
 {
     "Lua.diagnostics.globals": [
         "after_fullscreen",
-        "found_lyrics"
+        "found_lyrics",
+        "lyrics",
+        "lyrics_was_found",
+        "file",
+        "lyrics_file"
     ]
 }
